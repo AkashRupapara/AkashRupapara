@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate full stack developer from India</h3>
 
+EVER POSITIVE NEVER NEGATIVE
 - 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
