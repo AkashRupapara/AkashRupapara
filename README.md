@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/akashrupapara" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/4a90e2/external-linkedin-social-media-justicon-flat-justicon.png" alt="akashrupapara" height="30" width="40" /></a>
  <a href="https://akashrupapara.github.io" target="blank"><img align="center" src="https://img.icons8.com/ios/50/ffffff/domain.png" alt="akashr99" height="30" width="40" /></a>
 <a href="https://github.com/AkashRupapara" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="akash rupapara" height="30" width="40" /></a>
-<a href="https://instagram.com/akash_1704" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="akash_1704" height="30" width="40" /></a>
+<a href="https://instagram.com/akash_1704" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/instagram--v1.png" alt="akash_1704" height="30" width="40" /></a>
 
 </p>
 
