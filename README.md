@@ -19,15 +19,16 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate full stack developer from India</h3>
 
-EVER POSITIVE NEVER NEGATIVE
+<h4 align="center">EVER POSITIVE NEVER NEGATIVE</h4>
 - 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akashrupapara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akashrupapara" height="30" width="40" /></a>
-<a href="https://fb.com/akash rupapara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash rupapara" height="30" width="40" /></a>
-<a href="https://instagram.com/akash_1704" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akash_1704" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akashr99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akashr99" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akashrupapara" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/4a90e2/external-linkedin-social-media-justicon-flat-justicon.png" alt="akashrupapara" height="30" width="40" /></a>
+ <a href="https://akashrupapara.github.io" target="blank"><img align="center" src="https://img.icons8.com/ios/50/ffffff/domain.png" alt="akashr99" height="30" width="40" /></a>
+<a href="https://github.com/AkashRupapara" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="akash rupapara" height="30" width="40" /></a>
+<a href="https://instagram.com/akash_1704" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="akash_1704" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
