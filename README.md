@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<h4 align="center">EVER POSITIVE NEVER NEGATIVE</h4>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akashrupapara" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/4a90e2/external-linkedin-social-media-justicon-flat-justicon.png" alt="akashrupapara" height="30" width="40" /></a>
