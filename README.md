@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3>A passionate full stack developer from India. Currently working as Full stack Software Engineer at <a href='https://www.lacework.net'>Lacework inc.</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
